@@ -1,4 +1,3 @@
-<img width="1393" height="689" alt="image" src="https://github.com/user-attachments/assets/afa2b565-f537-45b5-97e7-ba05a3f0869f" />
 # Como mudar a cor acima da toolbar
 
 Para alterar a cor da área acima da toolbar no seu editor (como VS
@@ -35,6 +34,7 @@ As alterações serão aplicadas imediatamente.
     permitir overrides via `workbench.colorCustomizations`.
 
 ------------------------------------------------------------------------
+<img width="1393" height="689" alt="image" src="https://github.com/user-attachments/assets/afa2b565-f537-45b5-97e7-ba05a3f0869f" />
 
 Se quiser personalizar ainda mais, posso gerar configurações completas
 para você.
